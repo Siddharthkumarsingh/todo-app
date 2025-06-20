@@ -10,7 +10,7 @@ A fun mini-project where I built a simple To-Do list using **HTML**, **CSS**, an
 - Clean UI with background image
 
 ## 🚀 Live Demo
-👉 *[Add your GitHub Pages link here once you set it up]*  
+[View Live] https://siddharthkumarsingh.github.io/todo-app/ 
 
 ## 📁 Tech Stack
 - HTML
